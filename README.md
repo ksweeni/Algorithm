@@ -1,0 +1,2 @@
+# Algorithm
+🎲 Today I Solved !
